@@ -1,3 +1,4 @@
+#multiple inheritance in python
 class A:
     def method1(self):
         print("Method 1 of class A")
