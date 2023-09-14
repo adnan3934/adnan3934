@@ -1,5 +1,6 @@
+//StringTokenizer simple program 
 import java.util.StringTokenizer;
-public class stri
+public class stringtokenex
 {
 public static void main(String args[])
 {
