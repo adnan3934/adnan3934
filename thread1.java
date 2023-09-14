@@ -1,5 +1,6 @@
+//thread program in java
 import java.lang.*;
-public class th extends Thread
+public class thread1 extends Thread
 {
 int i;
 public void run()
