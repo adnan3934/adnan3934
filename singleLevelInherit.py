@@ -1,3 +1,4 @@
+#single level inheritence in python
 class animal:
     name=''
     def eat(self):
