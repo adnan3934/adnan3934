@@ -1,3 +1,4 @@
+#list operations in python
 list=[1,5,2,9,5,7]
 print("lengeth",len(list))
 print("append")
