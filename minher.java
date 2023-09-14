@@ -1,3 +1,4 @@
+//multi level inheritance in java
 class A
 {
 void abc()
