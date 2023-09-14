@@ -6,7 +6,7 @@ void abc()
 System.out.println("first class meth");
 }
 }
-class super1 extends ani
+class sup extends ani
 {
 sup()
 {
