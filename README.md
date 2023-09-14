@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohd adnan
-- 👀 I’m interested in aap development 
+- 👀 I’m interested in app development 
 - 🌱 I’m currently learning AI with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
