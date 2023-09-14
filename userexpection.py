@@ -1,4 +1,4 @@
-#user defined excep
+#user defined exception
 class mm(Exception):
     pass
 agel=int(input("age ent"))
