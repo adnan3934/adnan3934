@@ -1,3 +1,4 @@
+//super keyword usage in java
 class ani
 {
 void abc()
@@ -5,7 +6,7 @@ void abc()
 System.out.println("first class meth");
 }
 }
-class sup extends ani
+class super1 extends ani
 {
 sup()
 {
